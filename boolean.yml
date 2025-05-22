@@ -1,0 +1,5 @@
+deploy: true
+test: false
+
+active: true
+admin: false
