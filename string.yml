@@ -1,0 +1,21 @@
+# String
+name: "Jhon apache"
+company: 'xyz'
+
+#multiline string
+multilne_string_literal: |
+   This is multilne_string_literl 
+   we are doing practice
+   to write literal multiline string
+
+multiline_string_folded: >
+  This is just a folded multiline
+  string value
+  anything 
+  what w want to write
+
+#escaped characters
+escaped: "Hello there \"How are you?\" Jhon"
+
+#espacial character
+special_character: "Hello \n Jhon, how are you?"

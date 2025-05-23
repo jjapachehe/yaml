@@ -1,0 +1,23 @@
+#Simple list
+fruits:
+  - apple
+  - mango
+  - banana
+  - kiwi
+  - grapes
+
+#List of numbers
+numbers: [1,2,3,4,5]
+
+#Mixed list
+class:
+  - Jhon
+  - 16
+  - 7
+
+#List of list (nested list)
+group:
+  - [2,3,4]
+  - [89,63,737]
+  - [7,8,9]
+
